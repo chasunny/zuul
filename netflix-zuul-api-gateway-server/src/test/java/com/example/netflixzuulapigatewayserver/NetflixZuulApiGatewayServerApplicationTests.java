@@ -1,13 +1,13 @@
-package com.example.netflixzuulapigatewayserver;
+//package com.example.netflixzuulapigatewayserver;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class NetflixZuulApiGatewayServerApplicationTests {
+//@SpringBootTest
+//class NetflixZuulApiGatewayServerApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+//	@Test
+//	void contextLoads() {
+//	}
 
-}
+//}
